@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://balbonits.github.io/csb-ifd023/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://balbonits.github.io/csb-ifd023/static/js/main.1aa3d1df.chunk.js",
+    "main.js.map": "https://balbonits.github.io/csb-ifd023/static/js/main.1aa3d1df.chunk.js.map",
+    "runtime-main.js": "https://balbonits.github.io/csb-ifd023/static/js/runtime-main.bc324b0e.js",
+    "runtime-main.js.map": "https://balbonits.github.io/csb-ifd023/static/js/runtime-main.bc324b0e.js.map",
+    "static/js/2.8d3771a4.chunk.js": "https://balbonits.github.io/csb-ifd023/static/js/2.8d3771a4.chunk.js",
+    "static/js/2.8d3771a4.chunk.js.map": "https://balbonits.github.io/csb-ifd023/static/js/2.8d3771a4.chunk.js.map",
+    "index.html": "https://balbonits.github.io/csb-ifd023/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://balbonits.github.io/csb-ifd023/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.8d3771a4.chunk.js.LICENSE.txt": "https://balbonits.github.io/csb-ifd023/static/js/2.8d3771a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc324b0e.js",
+    "static/js/2.8d3771a4.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1aa3d1df.chunk.js"
+  ]
+}
